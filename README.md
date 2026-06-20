@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**AmrMaarouf/AmrMaarouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Amr, an AI engineering student from Egypt.
 
-Here are some ideas to get you started:
+I build anything that comes to my mind — and I do think of many things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ML pipelines, embedded systems, CPUs in Logisim, network design, and TEDx conferences.
+If the concept feels huge, I would have already been working on it.
+Python, TensorFlow, PyTorch, and scikit-learn are my go-to libraries.
+And so are WSL2, CUDA, and countless Optuna trials!
+
+I am currently coordinating TEDx New Ismailia National University—the inaugural conference will take place in 2026.
+
+If you wish to study ML or C++ programming, I've founded STEMAIfy Academy, where I conduct both courses.
+
+Fun Facts:
+
+- 7-time Republic Champion in MMA, Kung Fu, kickboxing, and boxing.
+- I write classical Arabic poetry.
+- Qualified for ISEF back when I developed a 27-stage seawater desalination system.
+- Developed an astronomy-related educational content website before I even knew what a neural network was.
